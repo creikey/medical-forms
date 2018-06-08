@@ -4,7 +4,7 @@
 [ext_resource path="res://form/Form.tscn" type="PackedScene" id=2]
 [ext_resource path="res://theme/minimal_theme.tres" type="Theme" id=3]
 
-[node name="TestSave" type="Node2D" index="0"]
+[node name="TestSave" type="Node2D"]
 
 script = ExtResource( 1 )
 original_form = ExtResource( 2 )
